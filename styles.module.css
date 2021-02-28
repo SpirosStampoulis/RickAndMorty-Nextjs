@@ -1,0 +1,18 @@
+.bgBlack{
+    background-color: #000000;
+}
+.bgSnow{
+    background-color: #fff;
+}
+.textBlack{
+    color: #000000;
+}
+.textSnow{
+    color: #fff;
+}
+.bdSnow{
+    border-color: #fff;
+}
+.bdDark{
+    border-color: #000000;
+}
